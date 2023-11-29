@@ -1,7 +1,7 @@
 Setting,Customize,Hints
 Storymap Info,,"For help, see tutorial in [HandsOnDataViz.org](https://handsondataviz.org/leaflet-storymaps-with-google-sheets.html)"
 Storymap Title,Dare County Shoreline Analysis,
-Storymap Subtitle,Sea Level Rise<br><small>Scroll down<i class='fafa-chevron-down'></i></small>,"Add your subtitle, or delete that portion"
+,Dare County Shoreline Analysis<br><small>Scroll down<i class='fafa-chevron-down'></i></small>,"Add your subtitle, or delete that portion"
 Storymap Logo,media/ncsu_logo.jpg,Path to a logo image
 Google Analytics Tracking ID,,Sample format: UA-5488840-29
 Map Settings,,
@@ -16,6 +16,6 @@ Pixels After Final Chapter,600,"In pixels, at least 100"
 Enable Lightbox for Images,yes,yes or no
 Credits,,
 Author Name,Gabriel Jones,"Appears in map credits as ""View data by..."" (or leave blank)"
-Author Email or Website,,Create link in Author Name by inserting your email or web address (or leave blank)
+Author Email or Website,grjones256@gmail.com,Create link in Author Name by inserting your email or web address (or leave blank)
 Author GitHub Repo Link,https://github.com/handsondataviz/leaflet-storymaps-with-google-sheets,"Insert your code repo URL to appear as link in ""View code..."" (or leave blank)"
 Code Credit,"<a href=""https://handsondataviz.org"">HandsOnDataViz</a>","Appears in credits as ""...code by..."" (or leave blank)"
