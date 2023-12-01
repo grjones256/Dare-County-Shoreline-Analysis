@@ -5,7 +5,7 @@ Subtitle,Dare County Shoreline Analysis<br><small>Scroll down<i class='fafa-chev
 Storymap Logo,media/ncsu_logo.jpg,Path to a logo image
 Google Analytics Tracking ID,,Sample format: UA-5488840-29
 Map Settings,,
-Basemap Tiles,CartoDB.Positron,[Drop-down menu for background basemap tiles](https://leaflet-extras.github.io/leaflet-providers/preview/)
+Basemap Tiles,stamen.terrain,[Drop-down menu for background basemap tiles](https://leaflet-extras.github.io/leaflet-providers/preview/)
 Zoom Controls,bottomright,
 Narrative Background Color,,
 Narrative Text Color,,
