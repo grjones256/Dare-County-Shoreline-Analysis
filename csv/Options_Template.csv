@@ -5,7 +5,7 @@ Storymap Subtitle,<br><small>Scroll down<i class='fafa-chevron-down'></i></small
 Storymap Logo,media/ncsu_logo.jpg,Path to a logo image
 Google Analytics Tracking ID,,Sample format: UA-5488840-29
 Map Settings,,
-Basemap Tiles,Stamen.Terrain,[Drop-down menu for background basemap tiles](https://leaflet-extras.github.io/leaflet-providers/preview/)
+Basemap Tiles,CartoDB.Positron,[Drop-down menu for background basemap tiles](https://leaflet-extras.github.io/leaflet-providers/preview/)
 Zoom Controls,bottomright,
 Narrative Background Color,,
 Narrative Text Color,,
@@ -17,5 +17,5 @@ Enable Lightbox for Images,yes,yes or no
 Credits,,
 Author Name,Gabriel Jones,"Appears in map credits as ""View data by..."" (or leave blank)"
 Author Email or Website,grjones256@gmail.com,Create link in Author Name by inserting your email or web address (or leave blank)
-Author GitHub Repo Link,https://github.com/grjones256/Dare-County-Shoreline-Analysis,"Insert your code repo URL to appear as link in ""View code..."" (or leave blank)"
+Author GitHub Repo Link,handsondataviz/leaflet-storymaps-with-google-sheets,"Insert your code repo URL to appear as link in ""View code..."" (or leave blank)"
 Code Credit,"<a href=""https://handsondataviz.org"">HandsOnDataViz</a>","Appears in credits as ""...code by..."" (or leave blank)"
