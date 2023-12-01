@@ -1,7 +1,8 @@
-Chapter,Media Link,Media Credit,Media Credit Link,Description,Zoom,Marker,Marker Color,Location,Latitude,Longitude,Overlay,Overlay Transparency,GeoJSON Overlay,GeoJSON Feature Properties
-Overview of Raleigh
-Background
-Dare County
-Shoreline Comparison
-Impacts
-What can be done?
+,Unnamed: 0,Chapter,Media Link,Media Credit,Media Credit Link,Description,Zoom,Marker,Marker Color,Location,Latitude,Longitude,Overlay,Overlay Transparency,GeoJSON Overlay,GeoJSON Feature Properties,GeojSON Overlay
+0,0.0,Background,media/InnatRodanthe.jpg,Source: Raleigh Government,https://raleighnc.gov/,"Before European colonization, the Raleigh area was home to indigenous     tribes including the Tuscarora and Occaneechi. Sir Walter Raleigh, among others, funded a group of colonists     to establish the <em>Cittie of Raleigh</em>. These colonists landed on Roanoke Island in <b>1587</b> and     later became known as the ""Lost Colony"" after the settlement was found abandonded in 1590. In <b>1770</b>     the General Assembly created Wake County. In <b>1792</b>, Raleigh was founded as the state capital of North Carolina.",15.75,Hidden,,"Dare County, NC",35.3735,-75.391,geojson/clipped_globe.geojson,0.9,,,
+1,1.0,Background,media/peace.jpg,Image Source: Niche,https://www.niche.com/colleges/william-peace-university/,"William Peace University was founded in 1857. It's motto is     <em>Esse quam videri</em> - ""To be, rather than to seem"".",,,,,,,,,,,
+2,2.0,Dare County,,,,,,,,,,,,,,,
+3,3.0,Shoreline Comparison,media/IMG_STAUG-_MAIN_7_1_4RCVEBJC_L359750172.jpg,The News & Observer,https://newsobserver.com/news/local/article222943610.html,,,,,,,,,,,,
+4,4.0,Impacts,https://www.youtube.com/embed/aZQFQnbs_Ho,,,"North Carolina State University is a Land Grant Institution founded in 1887. Established under the 1862 Morrill Land-Grant Act, it was argued that “NC State will provide a liberal and practical education while focusing on military tactics, agriculture and mechanical arts without excluding classical studies.”",,,,,,,,,geojson/NCSU_campuses.geojson,fillColor:red;color:black,
+5,5.0,What can be done?,,,,,,,,,,,,,geojson/wake_county_census_tracts.geojson,fillColor:#520d0d;color:black,
+6,,,,,,,20.0,,,,,,,,,,geojson/wake_co_census_colored_AWATER.geojson
